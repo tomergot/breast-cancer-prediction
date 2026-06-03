@@ -41,10 +41,10 @@ breast-cancer-prediction/
 │   ├── Data_analysis.py
 │   ├── hospital_by_age_part3.py
 │   ├── part_3.py
-│   ├── project.pdf
 │   └── requirements.txt
 │
 ├── README.md
+├── project.pdf
 └── .gitignore
 Subtasks
 subtaskI — Metastasis Prediction
