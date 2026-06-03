@@ -113,7 +113,6 @@ How to Run
 Because the original dataset is private, the data files are not included in this repository.
 
 To run the project:
-
 Add compatible train and test CSV files in the expected locations.
 Install the required Python packages from the relevant requirements.txt file.
 Run the relevant main file for each subtask.
@@ -125,12 +124,9 @@ python Predicting_Metastases.py
 
 The exact running command may vary depending on the specific subtask and file structure.
 
-Privacy Notice
-
+Privacy Notice:
 This repository does not include the original clinical dataset due to privacy restrictions.
-
 Private data, personal information, sensitive medical information, prediction CSV files, and derived analysis CSV files should not be uploaded to this repository.
 
-Goal
-
+Goal:
 The main goal of this project is to explore machine learning techniques for breast cancer prediction and evaluate how different models perform on clinical features.
