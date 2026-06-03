@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Private data and generated outputs
+*.csv
+*.xlsx
+*.xls
+data/
+datasets/
+outputs/
+results/
+
+# Personal / submission files
+USERS.txt
